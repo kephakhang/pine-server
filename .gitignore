@@ -1,0 +1,15 @@
+
+pynecone.db
+__pycache__/
+*.py[cod]
+.web
+logs/
+bin/
+include/
+lib/
+pyvenv.cfg
+lib64
+pine.sqlite
+venv/
+.Python
+.idea/
